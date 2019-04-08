@@ -121,9 +121,15 @@
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
+=======
+  <component name="ProjectFrameBounds">
+    <option name="x" value="241" />
+    <option name="y" value="66" />
+>>>>>>> 5e31672d09df53b10ba9a4d516204a4e1282f2a3
     <option name="width" value="1613" />
     <option name="height" value="877" />
   </component>
@@ -168,6 +174,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
   </component>
   <component name="RunDashboard">
